@@ -62,6 +62,7 @@ address_12 = "rp3YsxLQpxBXzykjdGhZ3TVyKrbyWFhxwm"
 network = "main"
 desc = ": Smith-Family-Investments.: Strategic-Relationships-Wallet-Address"
 
+[[ACCOUNTS]]
 address_13 = "rPSXiyNFLLkuAg2SBWxfgnv5sxWLYGwSPN"
 network = "main"
 desc = ": Smith-Family-Investments.: Tangem-Card.: Expense-Wallet-Address"
